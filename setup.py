@@ -9,7 +9,7 @@ with open('Readme.md') as f:
 setup(
     name='btdripper',
     packages=find_packages(exclude=["tests", "docs"]),
-    version='0.1.0',
+    version='0.1.0-1',
     description='Control a Kamoer Dripping Pro pump',
     long_description=readme,
     long_description_content_type='text/markdown',

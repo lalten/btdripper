@@ -2,6 +2,8 @@
 
 Control your [Kamoer Dripping Pro](http://kamoer.com/Products/showproduct.php?id=308&lang=en) plant irrigation pump with Python.
 
+You can read more about the idea behind this in [this blog post](https://blog.laure.nz/2019/08/29/reverse-engineering-towards-a-smarter-bluetooth-balcony-plant-irrigation-system-part-1/).
+
 ## Installation
 
 ```sh
